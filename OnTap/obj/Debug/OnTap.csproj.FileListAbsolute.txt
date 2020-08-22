@@ -1,0 +1,12 @@
+D:\OnTap\bin\Debug\OnTap.exe.config
+D:\OnTap\bin\Debug\OnTap.exe
+D:\OnTap\bin\Debug\OnTap.pdb
+D:\OnTap\obj\Debug\OnTap.csprojResolveAssemblyReference.cache
+D:\OnTap\obj\Debug\OnTap.exe
+D:\OnTap\obj\Debug\OnTap.pdb
+F:\CNTT\CauTrucDuLieu\OnTap\bin\Debug\OnTap.exe.config
+F:\CNTT\CauTrucDuLieu\OnTap\bin\Debug\OnTap.exe
+F:\CNTT\CauTrucDuLieu\OnTap\bin\Debug\OnTap.pdb
+F:\CNTT\CauTrucDuLieu\OnTap\obj\Debug\OnTap.exe
+F:\CNTT\CauTrucDuLieu\OnTap\obj\Debug\OnTap.pdb
+F:\CNTT\CauTrucDuLieu\OnTap\obj\Debug\OnTap.csprojResolveAssemblyReference.cache

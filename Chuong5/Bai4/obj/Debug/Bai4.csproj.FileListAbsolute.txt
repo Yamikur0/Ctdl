@@ -1,0 +1,12 @@
+I:\CauTrucDuLieu\Chuong5\Bai4\bin\Debug\Bai4.exe.config
+I:\CauTrucDuLieu\Chuong5\Bai4\bin\Debug\Bai4.exe
+I:\CauTrucDuLieu\Chuong5\Bai4\bin\Debug\Bai4.pdb
+I:\CauTrucDuLieu\Chuong5\Bai4\obj\Debug\Bai4.csprojResolveAssemblyReference.cache
+I:\CauTrucDuLieu\Chuong5\Bai4\obj\Debug\Bai4.exe
+I:\CauTrucDuLieu\Chuong5\Bai4\obj\Debug\Bai4.pdb
+F:\CNTT\CauTrucDuLieu\Chuong5\Bai4\bin\Debug\Bai4.exe.config
+F:\CNTT\CauTrucDuLieu\Chuong5\Bai4\obj\Debug\Bai4.exe
+F:\CNTT\CauTrucDuLieu\Chuong5\Bai4\obj\Debug\Bai4.pdb
+F:\CNTT\CauTrucDuLieu\Chuong5\Bai4\bin\Debug\Bai4.exe
+F:\CNTT\CauTrucDuLieu\Chuong5\Bai4\bin\Debug\Bai4.pdb
+F:\CNTT\CauTrucDuLieu\Chuong5\Bai4\obj\Debug\Bai4.csprojResolveAssemblyReference.cache

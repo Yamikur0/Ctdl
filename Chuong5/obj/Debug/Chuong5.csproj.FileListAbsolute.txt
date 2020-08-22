@@ -1,0 +1,12 @@
+D:\Chuong5\bin\Debug\Chuong5.exe.config
+D:\Chuong5\bin\Debug\Chuong5.exe
+D:\Chuong5\bin\Debug\Chuong5.pdb
+D:\Chuong5\obj\Debug\Chuong5.csprojResolveAssemblyReference.cache
+D:\Chuong5\obj\Debug\Chuong5.exe
+D:\Chuong5\obj\Debug\Chuong5.pdb
+I:\CauTrucDuLieu\Chuong5\bin\Debug\Chuong5.exe.config
+I:\CauTrucDuLieu\Chuong5\obj\Debug\Chuong5.exe
+I:\CauTrucDuLieu\Chuong5\obj\Debug\Chuong5.pdb
+I:\CauTrucDuLieu\Chuong5\bin\Debug\Chuong5.exe
+I:\CauTrucDuLieu\Chuong5\bin\Debug\Chuong5.pdb
+I:\CauTrucDuLieu\Chuong5\obj\Debug\Chuong5.csprojResolveAssemblyReference.cache

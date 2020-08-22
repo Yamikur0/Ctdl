@@ -1,0 +1,5 @@
+F:\CNTT\CauTrucDuLieu\OnTap\Queue1\bin\Debug\Queue1.exe.config
+F:\CNTT\CauTrucDuLieu\OnTap\Queue1\bin\Debug\Queue1.exe
+F:\CNTT\CauTrucDuLieu\OnTap\Queue1\bin\Debug\Queue1.pdb
+F:\CNTT\CauTrucDuLieu\OnTap\Queue1\obj\Debug\Queue1.exe
+F:\CNTT\CauTrucDuLieu\OnTap\Queue1\obj\Debug\Queue1.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTap", "OnTap.csproj", "{9ED1847E-1D35-4857-817A-5F51E5C1C124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack1", "..\Stack1\Stack1.csproj", "{AEB92C03-3AD2-4468-827A-C5164E425AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue1", "Queue1\Queue1.csproj", "{37F56AF8-FD91-481E-B197-E2DB15CF6712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED1847E-1D35-4857-817A-5F51E5C1C124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED1847E-1D35-4857-817A-5F51E5C1C124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED1847E-1D35-4857-817A-5F51E5C1C124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED1847E-1D35-4857-817A-5F51E5C1C124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB92C03-3AD2-4468-827A-C5164E425AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB92C03-3AD2-4468-827A-C5164E425AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB92C03-3AD2-4468-827A-C5164E425AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB92C03-3AD2-4468-827A-C5164E425AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F56AF8-FD91-481E-B197-E2DB15CF6712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F56AF8-FD91-481E-B197-E2DB15CF6712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F56AF8-FD91-481E-B197-E2DB15CF6712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F56AF8-FD91-481E-B197-E2DB15CF6712}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
